@@ -1,3 +1,9 @@
 Me llamo Mora.
 
-Removing lines of code
+This is a word.
+
+beep boop I am a robot.
+
+This is a second robot.
+
+this is my other code.
